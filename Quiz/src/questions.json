@@ -1,0 +1,112 @@
+[
+    {
+    "id": 1,
+    "question": "What does HTML stand for?",
+    "options": [
+        "Hyper Text Markup Language",
+        "Home Tool Markup Language",
+        "Hyperlinks and Text Markup Language",
+        "Hyper Tool Markup Language"
+    ],
+    "correctOption": "Hyper Text Markup Language"
+},
+{
+    "id": 2,
+    "question": "Which HTML tag is used to define an unordered list?",
+    "options": [
+        "<ul>",
+        "<ol>",
+        "<li>",
+        "<list>"
+    ],
+    "correctOption": "<ul>"
+},
+{
+    "id": 3,
+    "question": "Which HTML attribute is used to define inline styles?",
+    "options": [
+        "style",
+        "class",
+        "id",
+        "css"
+    ],
+    "correctOption": "style"
+},
+{
+    "id": 4,
+    "question": "Which HTML element is used to display a scalar measurement within a range?",
+    "options": [
+        "<meter>",
+        "<progress>",
+        "<range>",
+        "<gauge>"
+    ],
+    "correctOption": "<meter>"
+},
+{
+    "id": 5,
+    "question": "What is the correct HTML element for the largest heading?",
+    "options": [
+        "<h1>",
+        "<heading>",
+        "<h6>",
+        "<head>"
+    ],
+    "correctOption": "<h1>"
+},
+{
+    "id": 6,
+    "question": "Which CSS property is used to change the background color?",
+    "options": [
+        "background-color",
+        "color",
+        "bgcolor",
+        "background"
+    ],
+    "correctOption": "background-color"
+},
+{
+    "id": 7,
+    "question": "Which CSS property is used to make text bold?",
+    "options": [
+        "font-weight",
+        "font-style",
+        "text-decoration",
+        "font-bold"
+    ],
+    "correctOption": "font-weight"
+},
+{
+    "id": 8,
+    "question": "Which CSS property is used to control the spacing between lines of text?",
+    "options": [
+        "line-height",
+        "letter-spacing",
+        "text-spacing",
+        "spacing"
+    ],
+    "correctOption": "line-height"
+},
+{
+    "id": 9,
+    "question": "Which CSS property is used to align text to the center?",
+    "options": [
+        "text-align",
+        "align",
+        "vertical-align",
+        "center-align"
+    ],
+    "correctOption": "text-align"
+},
+{
+    "id": 10,
+    "question": "Which CSS property is used to set the space between the content and the border?",
+    "options": [
+        "padding",
+        "margin",
+        "border-spacing",
+        "spacing"
+    ],
+    "correctOption": "padding"
+}
+]
